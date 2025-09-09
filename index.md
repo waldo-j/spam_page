@@ -1,16 +1,17 @@
 ---
 layout: default
-title:Superpixel Anything: A general object-based framework for accurate yet regular superpixel segmentation
+title: Superpixel Anything: A general object-based framework for accurate yet regular superpixel segmentation
 ---
 
 # Superpixel Anything: A general object-based framework for accurate yet regular superpixel segmentation
 
 Julien Walther - Rémi Giraud - Michaël Clément
+
 Affiliation(s)
 
 [📄 Main Paper](assets/main_paper.pdf) · [📄 Supp Mat](assets/supp_mat.pdf) · [📦 Code](https://github.com/waldo-j/spam)
 
-![Teaser image](assets/teaser.jpg)
+![Teaser image](assets/picture_method.png)
 
 ## Abstract
 
