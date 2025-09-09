@@ -1,14 +1,14 @@
 ---
+
 layout: default
-title: Awesome Paper Title
----
+title: Superpixel Anything: A general object-based framework for accurate yet regular superpixel segmentation---
 
-# Awesome Paper Title
+# Superpixel Anything: A general object-based framework for accurate yet regular superpixel segmentation
 
-**Author One**, Author Two, Author Three  
+Julien Walther - Rémi Giraud - Michaël Clément
 Affiliation(s)
 
-[📄 PDF](assets/paper.pdf) · [📦 Code](https://github.com/<user>/<repo-code>) · [🧪 Data](https://doi.org/xxx) · [📺 Video](https://youtu.be/xxxxx)
+[📄 Main Paper](assets/main_paper.pdf) · [📄 Supp Mat](assets/supp_mat.pdf) · [📦 Code](https://github.com/waldo-j/spam)
 
 ![Teaser image](assets/teaser.jpg)
 
