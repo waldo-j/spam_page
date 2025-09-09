@@ -1,7 +1,7 @@
 ---
-
 layout: default
-title: Superpixel Anything: A general object-based framework for accurate yet regular superpixel segmentation---
+title:Superpixel Anything: A general object-based framework for accurate yet regular superpixel segmentation
+---
 
 # Superpixel Anything: A general object-based framework for accurate yet regular superpixel segmentation
 
