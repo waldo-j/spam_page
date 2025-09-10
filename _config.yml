@@ -1,7 +1,8 @@
-# title: Superpixel Anything - A general object-based framework for accurate yet regular superpixel segmentation
+title: SuperPixel Anything
 # description: Project page for "Superpixel Anything A general object-based framework for accurate yet regular superpixel segmentation"
 # theme: midnight
 remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
+show_downloads: false
 markdown: kramdown
